@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ch.automated.web.HelloServletTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-08-03T21:40:20" hostname="linux-utr6" time="0.744">
+  <properties/>
+  <testcase name="doPostWithoutName" classname="ch.automated.web.HelloServletTest" time="0.741"/>
+  <testcase name="doGet" classname="ch.automated.web.HelloServletTest" time="0.001"/>
+  <testcase name="doPostWithName" classname="ch.automated.web.HelloServletTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
